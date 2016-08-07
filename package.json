@@ -1,0 +1,20 @@
+{
+  "name": "json-stringify-safe",
+  "version": "0.0.0",
+  "description": "Stringify json with advanced options.",
+  "main": "lib/json-stringify-debug.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "keywords": [
+    "json",
+    "stringify",
+    "debug"
+  ],
+  "author": "edvinv",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
